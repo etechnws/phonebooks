@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+  <Title>Yealink</Title>
+
+###County Line at the Lake###
+<Menu Name = "Contacts">
+<Unit Name="Carter" Phone1="5125857645" Phone2="" Phone3="" default_photo="Resource:"/>
+<Unit Name="Kristina" Phone1="5126361417" Phone2="" Phone3="" default_photo="Resource:"/>
+<Unit Name="Oscar" Phone1="5127880770" Phone2="" Phone3="" default_photo="Resource:"/>
+<Unit Name="Change Order" Phone1="5124734930" Phone2="" Phone3="" default_photo="Resource:"/>
+<Unit Name="Corp" Phone1="5123271959" Phone2="" Phone3="" default_photo="Resource:"/>
+<Unit Name="Jose" Phone1="5127364777" Phone2="" Phone3="" default_photo="Resource:"/>
+<Unit Name="Reach" Phone1="5125858687" Phone2="" Phone3="" default_photo="Resource:"/>
+<Unit Name="Mike H" Phone1="5129211607" Phone2="" Phone3="" default_photo="Resource:"/>
+<Unit Name="Hill" Phone1="5123271742" Phone2="" Phone3="" default_photo="Resource:"/>
+<Unit Name="Emporium" Phone1="2547749098" Phone2="" Phone3="" default_photo="Resource:"/>
+<Unit Name="Chuy" Phone1="5122478231" Phone2="" Phone3="" default_photo="Resource:"/>
+<Unit Name="Gabe" Phone1="9176835986" Phone2="" Phone3="" default_photo="Resource:"/>
+<Unit Name="Ron S" Phone1="5126598867" Phone2="" Phone3="" default_photo="Resource:"/>
+<Unit Name="Jenny H" Phone1="5125716302" Phone2="" Phone3="" default_photo="Resource:"/>
+<Unit Name="GW" Phone1="5127319406" Phone2="" Phone3="" default_photo="Resource:"/>
+<Unit Name="Jeremy" Phone1="5127360807" Phone2="" Phone3="" default_photo="Resource:"/>
+<Unit Name="Skeeter" Phone1="5125858742" Phone2="" Phone3="" default_photo="Resource:"/>
+<Unit Name="Ken" Phone1="5127698694" Phone2="" Phone3="" default_photo="Resource:"/>
+<Unit Name="Toast" Phone1="6176820225" Phone2="" Phone3="" default_photo="Resource:"/>
+</Menu>
+
+</YealinkIPPhoneBook>
