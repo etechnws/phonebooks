@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+  <Title>Yealink</Title>
+### Staff ###
+<Menu Name="Staff">
+	<Unit Name="Barbara (BST)" Phone1="5126996161"/>
+	<Unit Name="Brandy" Phone1="5123180906"/>
+	<Unit Name="Calvin" Phone1="5127509697"/>
+	<Unit Name="Chase (CAD)" Phone1="5732894338"/>
+	<Unit Name="Clint" Phone1="5124611747"/>
+	<Unit Name="Colby" Phone1="4694017172"/>
+	<Unit Name="CT (CTL)" Phone1="5127517925"/>
+	<Unit Name="Curtis (CNR)" Phone1="5129440902"/>
+	<Unit Name="David (SHP)" Phone1="5126534014"/>
+	<Unit Name="Derek (DLB)" Phone1="5129666168"/>
+	<Unit Name="Fax (SA)" Phone1="2106627811"/>
+	<Unit Name="Garrett (GMM)" Phone1="5127402684"/>
+	<Unit Name="Jeremy" Phone1="2105024722"/>
+	<Unit Name="Joe" Phone1="2107639848"/>
+	<Unit Name="JR" Phone1="5128039607"/>
+	<Unit Name="Jory (JLE)" Phone1="5129664707"/>
+	<Unit Name="Lee (LWM)" Phone1="5126358401"/>
+	<Unit Name="Lisa" Phone1="5125172979"/>
+	<Unit Name="Mackenzie" Phone1="5126183386"/>
+	<Unit Name="North Warehouse" Phone1="5128339170"/>
+	<Unit Name="Parker (PLM)" Phone1="5125899077"/>
+	<Unit Name="Pat (PAS)" Phone1="2107105718"/>
+	<Unit Name="Ralph(RAG)" Phone1="2107768448"/>
+	<Unit Name="Rene" Phone1="5129456851"/>
+	<Unit Name="SA Warehouse" Phone1="2106627811"/>
+	<Unit Name="Sebastian(SPG)" Phone1="2109076617"/>
+	<Unit Name="Stephanie(SPK)" Phone1="2103891604"/>
+	<Unit Name="Tate" Phone1="5129481105"/>
+	<Unit Name="Tony (TGR)" Phone1="5125891265"/>
+	<Unit Name="Wes" Phone1="8179176343"/>
+	<Unit Name="Brian" Phone1="5125634137"/>
+	<Unit Name="Kate" Phone1="2102845201"/>
+	<Unit Name="Emiley" Phone1="8185819983"/>
+</Menu>
+
+
+### Vendors ###
+<Menu Name ="Vendors">
+	<Unit Name="8 BPI" Phone1="5122794882"/>
+	<Unit Name="8 Emser TilE" Phone1="5128352888"/>
+	<Unit Name="Arizona tile" Phone1="7374433140"/>
+	<Unit Name="BMC" Phone1="5124562040"/>
+	<Unit Name="CARPENTER" Phone1="18008664403"/>
+	<Unit Name="C_C" Phone1="5128371380"/>
+	<Unit Name="C_C SA" Phone1="2102263317"/>
+	<Unit Name="CONGOLEUM" Phone1="4045595239"/>
+	<Unit Name="CROSSVILL TILE _ STONE" Phone1="5128367700"/>
+	<Unit Name="D_D BINDING" Phone1="5128348422"/>
+	<Unit Name="DIXIE HOME" Phone1="8668732875"/>
+	<Unit Name="DalTile" Phone1="5128377080"/>
+	<Unit Name="Daltile SA" Phone1="2104030298"/>
+	<Unit Name="EF Contract" Phone1="18004511240"/>
+	<Unit Name="ENGINEERED FLOORS/DREAM WEAVER BEAULIEU/CORONET CARPET" Phone1="18002676638"/>
+	<Unit Name="EXPRESS GLOBAL" Phone1="2106618461"/>
+	<Unit Name="Green World" Phone1="7139838100"/>
+	<Unit Name="Interface" Phone1="8006346032"/>
+	<Unit Name="KARNDEAN" Phone1="8882664343"/>
+	<Unit Name="KRAUSE" Phone1="8008480207"/>
+	<Unit Name="LW Flooring" Phone1="3523287491"/>
+	<Unit Name="MANNINGTON" Phone1="8778459884"/>
+	<Unit Name="MSI" Phone1="7372437600"/>
+	<Unit Name="MJS-Austin" Phone1="5129947231"/>
+	<Unit Name="MJS-SA" Phone1="2103254546"/>
+	<Unit Name="MOHAWK" Phone1="8666642950"/>
+	<Unit Name="Mohawk Commercial" Phone1="18006226228"/>
+	<Unit Name="Mohawk special goods" Phone1="18003466429"/>
+	<Unit Name="Metropolitan" Phone1="2534793909"/>
+	<Unit Name="Modern Home Concept" Phone1="2102369777"/>
+	<Unit Name="PFS" Phone1="5126104737"/>
+	<Unit Name="PFS SA" Phone1="2108203708"/>
+	<Unit Name="Patcraft (Shaw)" Phone1="18002414014"/>
+	<Unit Name="Readers Wholesale" Phone1="18007660002"/>
+	<Unit Name="Shaw" Phone1="18008727429"/>
+	<Unit Name="Shaw commercial" Phone1="18002577429"/>
+	<Unit Name="Southeastern Freight" Phone1="5122521900"/>
+	<Unit Name="Southwest" Phone1="5123994193"/>
+	<Unit Name="Stanton" Phone1="7066249385"/>
+	<Unit Name="Stone Solutions" Phone1="5128349211"/>
+	<Unit Name="Swiff Train/UCX Flooring" Phone1="18009291222"/>
+	<Unit Name="T_L Distributor / EJ WELCH" Phone1="18008880345"/>
+	<Unit Name="Travis Tile" Phone1="5124788705"/>
+	<Unit Name="Trinity Hardwood" Phone1="5124518889"/>
+	<Unit Name="Universal Flooring" Phone1="2812080000"/>
+	<Unit Name="Versa Trim " Phone1="18662008132"/>
+	<Unit Name="Waste management" Phone1="18008005804"/>
+  </Menu>
+  
+  <Menu Name ="Phone Support">
+	  <Unit Name="eTech" Phone1="5127071918"/>
+	  </Menu>
+  </YealinkIPPhoneBook>

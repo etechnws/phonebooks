@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+  <Title>Yealink</Title>
+### House ###
+<Menu Name="House">
+	<Unit Name="Dan Office" Phone1="1000"/>
+	<Unit Name="Dan Bed" Phone1="1001"/>
+	<Unit Name="Stephanie Bed" Phone1="1002"/>
+	<Unit Name="Dan Closet" Phone1="1003"/>
+	<Unit Name="Dan Bath" Phone1="1004"/>
+	<Unit Name="Stephanie Bath" Phone1="1005"/>
+	<Unit Name="Stephanie Closet" Phone1="1006"/>
+	<Unit Name="Stephanie Office" Phone1="1007"/>
+	<Unit Name="Living Room" Phone1="1008"/>
+	<Unit Name="Living Room 2" Phone1="1009"/>
+	<Unit Name="Kitchen" Phone1="1010"/>
+	<Unit Name="Gun Room" Phone1="1011"/>
+	<Unit Name="Bed 1" Phone1="1012"/>
+	<Unit Name="Bed 2" Phone1="1013"/>
+	<Unit Name="Bed 3" Phone1="1014"/>
+	<Unit Name="Bed 4" Phone1="1015"/>
+</Menu>
+  </YealinkIPPhoneBook>

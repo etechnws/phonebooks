@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+<Title>Yealink</Title>
+
+### Avenue F Office ###
+<Menu Name="Avenue F Office">
+  <Unit Name="Sondra Tobias" Phone1="200" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Vacant" Phone1="203" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Patsy Ramirez" Phone1="204" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Holt Havel" Phone1="205" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Yoselin Mendoza" Phone1="206" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Vacant" Phone1="207" Phone2="" Phone3="" default_photo="Resource:"/> 
+</Menu>
+
+### Ida Avenue Office ###
+<Menu Name="Ida Avenue Office">
+  <Unit Name="Tish Zalman" Phone1="300" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Vincent Pena" Phone1="301" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Celeste Harrison" Phone1="302" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Kristina Saglime" Phone1="303" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Shelby Garza" Phone1="304" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Jessica Maya" Phone1="305" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Yolanda Longoria" Phone1="306" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Manuela Luna" Phone1="307" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Cory McCray" Phone1="308" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Vacant" Phone1="309" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Kristen Stokely" Phone1="310" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Veronica Rodriguez" Phone1="311" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Brandi Jones/Ashley Alvarez" Phone1="312" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Angela Hurtado" Phone1="313" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Synthia Barrios" Phone1="314" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Heather Case" Phone1="315" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Jerrica Bolton" Phone1="316" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Manuela Luna" Phone1="317" Phone2="" Phone3="" default_photo="Resource:"/>
+</Menu>
+
+ </YealinkIPPhoneBook>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+     <YealinkIPPhoneBook>
+       <Title>Yealink</Title>
+       ### Employee Directory ###
+       <Menu Name="Employee Directory">
+       <Unit Name="Mike Hahn" Phone1="8950" default_photo="Resource:"/>
+       <Unit Name="Shawntelle Sanders" Phone1="8953" default_photo="Resource:"/>
+       <Unit Name="Stacey Sheffield" Phone1="8955" default_photo="Resource:"/>
+       <Unit Name="Cathy Rosamond" Phone1="8957" default_photo="Resource:"/>    
+
+
+
+   </Menu>
+
+  </YealinkIPPhoneBook>

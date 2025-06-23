@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<YealinkIPPhoneBook>
+  <Title>Yealink</Title>
+
+### Security ###
+   <Menu Name ="Security">
+      <Unit Name="Plaza Security" Phone1="5126634414" Phone2="" Phone3="" default_photo="Resource:"/>
+      <Unit Name="Bobby-Tri-Sheild Security" Phone1="5126385839" Phone2="" Phone3="" default_photo="Resource:"/>
+    </Menu>
+
+### Management ###
+  <Menu Name ="Management">
+    <Unit Name="Grace" Phone1="5125699529" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+
+### Maintenance ###
+<Menu Name ="Maintenance">
+  <Unit Name="Justo" Phone1="5128109244" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Jonathan" Phone1="5127678684" Phone2="" Phone3="" default_photo="Resource:"/>
+</Menu>
+
+### Housekeeping ###
+<Menu Name ="Housekeeping">
+  <Unit Name="Rosalinda" Phone1="5128707130" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Francisco" Phone1="5125525196" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Areli" Phone1="5128974452" Phone2="" Phone3="" default_photo="Resource:"/>
+</Menu>
+### Vendors ###
+<Menu Name ="Vendors">
+  <Unit Name="Suite 200" Phone1="5122981700;6" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Ken TK" Phone1="5128018612" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Kings III" Phone1="8007662029" Phone2="" Phone3="" default_photo="Resource:"/>
+</Menu>
+### Seaholm Property Management ###
+<Menu Name ="Seaholm Property Management">
+  <Unit Name="Simon" Phone1="5128530595" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Olivia" Phone1="4159260656" Phone2="" Phone3="" default_photo="Resource:"/>
+</Menu>
+</YealinkIPPhoneBook>
