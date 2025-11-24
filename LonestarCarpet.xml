@@ -89,8 +89,4 @@
 	<Unit Name="Versa Trim " Phone1="18662008132"/>
 	<Unit Name="Waste management" Phone1="18008005804"/>
   </Menu>
-  
-  <Menu Name ="Phone Support">
-	  <Unit Name="eTech" Phone1="5127071918"/>
-	  </Menu>
   </YealinkIPPhoneBook>
