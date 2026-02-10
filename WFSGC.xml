@@ -25,7 +25,7 @@
 ### Cuero Office ###
 <Menu Name="Cuero Office">
   <Unit Name="Jamie Rodriguez" Phone1="2300" Phone2="" Phone3="" default_photo="Resource:"/>
-  <Unit Name="Fantasy Jones" Phone1="2301" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Vacant" Phone1="2301" Phone2="" Phone3="" default_photo="Resource:"/>
   <Unit Name="Vacant Cuero" Phone1="2302" Phone2="" Phone3="" default_photo="Resource:"/>
   <Unit Name="Customer Cuero 1" Phone1="2303" Phone2="" Phone3="" default_photo="Resource:"/>
   <Unit Name="Customer Cuero 2" Phone1="2304" Phone2="" Phone3="" default_photo="Resource:"/>
@@ -194,6 +194,7 @@
 
 
 </YealinkIPPhoneBook>
+
 
 
 
