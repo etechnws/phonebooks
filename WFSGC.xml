@@ -25,7 +25,7 @@
 ### Cuero Office ###
 <Menu Name="Cuero Office">
   <Unit Name="Jamie Rodriguez" Phone1="2300" Phone2="" Phone3="" default_photo="Resource:"/>
-  <Unit Name="Vacant" Phone1="2301" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Crystal Wiley" Phone1="2301" Phone2="" Phone3="" default_photo="Resource:"/>
   <Unit Name="Vacant Cuero" Phone1="2302" Phone2="" Phone3="" default_photo="Resource:"/>
   <Unit Name="Customer Cuero 1" Phone1="2303" Phone2="" Phone3="" default_photo="Resource:"/>
   <Unit Name="Customer Cuero 2" Phone1="2304" Phone2="" Phone3="" default_photo="Resource:"/>
@@ -57,7 +57,7 @@
 ### Hallettsville Office ###
 <Menu Name="Hallettsville Office">
   <Unit Name="Kissha Gauthier" Phone1="2600" Phone2="" Phone3="" default_photo="Resource:"/>
-  <Unit Name="Sharon Hubenak" Phone1="2601" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Sterling Hubenak" Phone1="2601" Phone2="" Phone3="" default_photo="Resource:"/>
   <Unit Name="Front Desk" Phone1="2602" Phone2="" Phone3="" default_photo="Resource:"/>
   <Unit Name="Customer Hallettsville" Phone1="2603" Phone2="" Phone3="" default_photo="Resource:"/>
 </Menu>
@@ -89,7 +89,7 @@
   <Unit Name="CIS-Vacant" Phone1="2113" Phone2="" Phone3="" default_photo="Resource:"/>
   <Unit Name="Vacant" Phone1="2114" Phone2="" Phone3="" default_photo="Resource:"/>
   <Unit Name="Room 6 Suite A " Phone1="2115" Phone2="" Phone3="" default_photo="Resource:"/>
-  <Unit Name="Norma Dale" Phone1="2116" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Andy Reha, Jr." Phone1="2116" Phone2="" Phone3="" default_photo="Resource:"/>
   <Unit Name="Richard Navarro" Phone1="2117" Phone2="" Phone3="" default_photo="Resource:"/>
   <Unit Name="Cindy Torres" Phone1="2118" Phone2="" Phone3="" default_photo="Resource:"/>
   <Unit Name="Shawna Smith" Phone1="2119" Phone2="" Phone3="" default_photo="Resource:"/>
@@ -108,7 +108,7 @@
   <Unit Name="Elva Esquivel" Phone1="2132" Phone2="" Phone3="" default_photo="Resource:"/>
   <Unit Name="Tonya Perez" Phone1="2133" Phone2="" Phone3="" default_photo="Resource:"/>
   <Unit Name="Helen Soto" Phone1="2134" Phone2="" Phone3="" default_photo="Resource:"/>
-  <Unit Name="Vacant" Phone1="2135" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Michelle Castellanos" Phone1="2135" Phone2="" Phone3="" default_photo="Resource:"/>
   <Unit Name="Vacant" Phone1="2136" Phone2="" Phone3="" default_photo="Resource:"/>
   <Unit Name="Valerie John" Phone1="2137" Phone2="" Phone3="" default_photo="Resource:"/>
   <Unit Name="Robyn Sanford" Phone1="2138" Phone2="" Phone3="" default_photo="Resource:"/>
