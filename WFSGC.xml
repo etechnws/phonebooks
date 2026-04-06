@@ -45,13 +45,8 @@
 
 ### Gonzales Office ##
 <Menu Name="Gonzales Office">
-  <Unit Name="Vacant" Phone1="2400" Phone2="" Phone3="" default_photo="Resource:"/>
-  <Unit Name="Vacant" Phone1="2401" Phone2="" Phone3="" default_photo="Resource:"/>
-  <Unit Name="Jernard Conaway" Phone1="2402" Phone2="" Phone3="" default_photo="Resource:"/>
-  <Unit Name="Celeste Borjon" Phone1="2403" Phone2="" Phone3="" default_photo="Resource:"/>
-  <Unit Name="Amanda Person" Phone1="2404" Phone2="" Phone3="" default_photo="Resource:"/>
-  <Unit Name="Customer Gonzales" Phone1="2405" Phone2="" Phone3="" default_photo="Resource:"/>
-  <Unit Name="VR Travel Gonzales" Phone1="2406" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="2400" Phone1="2400" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Unit Name="Jernard Conaway" Phone1="2401" Phone2="" Phone3="" default_photo="Resource:"/>
 </Menu>
 
 ### Hallettsville Office ###
